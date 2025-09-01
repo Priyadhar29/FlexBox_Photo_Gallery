@@ -5,7 +5,7 @@ A responsive **photo gallery** built using **HTML & CSS Flexbox**. This project 
 ---
 
 ## 🚀 Live Demo  
-[Click here to view the project](https://your-live-demo-link.com)  
+[Click here to view the project](https://priyadhar29.github.io/FlexBox_Photo_Gallery/)
 
 ---
 
